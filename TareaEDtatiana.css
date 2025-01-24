@@ -5,3 +5,8 @@ h1 {
 h3 {
     background-color: brown;
 }
+
+p:hover {
+    color: white;
+    background: black;
+}
